@@ -9,7 +9,7 @@
 
 
 ## Descrição do projeto
-Projeto de testes automatizados utilizando o framework Playwright na aplicação Buger Eats.
+Projeto de testes automatizados utilizando o framework Playwright na aplicação Buger Eats.</br>
 Endereço da aplicação: https://buger-eats.vercel.app/
 
 ## Requisitos para instalação
