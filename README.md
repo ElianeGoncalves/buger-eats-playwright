@@ -14,8 +14,8 @@ Endereço da aplicação: https://buger-eats.vercel.app/
 
 ## Requisitos para instalação
 
-Node.js </br>
-YARN ou NPM </br>
+Node.js</br>
+YARN ou NPM</br>
 Visual Studio Code
 
 ## Instalação
