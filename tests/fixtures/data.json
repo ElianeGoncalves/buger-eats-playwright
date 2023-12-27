@@ -1,0 +1,66 @@
+{
+    "message": {
+        "successMessage": "Recebemos os seus dados. Fique de olho na sua caixa de email, pois e em breve retornamos o contato."
+    },
+    "title": {
+        "principalTitle": "Buger Eats"
+    },
+    "success": {
+        "name": "Eliane Goncalves",
+        "cpf": "07638252632",
+        "email": "eliane.goncalves@test.com",
+        "whatsapp": "31983125600",
+        "cep": "32611-084",
+        "deliveryMethod": "Moto",
+        "cnh": "./images/cnh-digital.jpg",
+        "number": "53",
+        "complement": "Casa"
+    },
+    "incorrectCpf": {
+        "name": "Eliane Goncalves",
+        "cpf": "076",
+        "email": "eliane.goncalves@test.com",
+        "whatsapp": "31983125600",
+        "cep": "32611-084",
+        "deliveryMethod": "Moto",
+        "cnh": "./images/cnh-digital.jpg",
+        "number": "53",
+        "complement": "Casa"
+    },
+    "messageCpf": {
+        "alertCpf": "Oops! CPF inválido"
+    },
+    "incorrectEmail": {
+        "name": "Eliane Goncalves",
+        "cpf": "07638252632",
+        "email": "eliane.",
+        "whatsapp": "31983125600",
+        "cep": "32611-084",
+        "deliveryMethod": "Moto",
+        "cnh": "./images/cnh-digital.jpg",
+        "number": "53",
+        "complement": "Casa"
+    },
+    "messageEmail": {
+        "alertEmail": "Inclua um \"@\" no endereço de e-mail."
+    },
+    "incorrectCEP": {
+        "alertCep": "Informe um CEP válido",
+        "cep": "326"
+    },
+    "validateDeliveryMethod": {
+        "alertMethod": "Oops! Selecione apenas um método de entrega",
+        "methodMoto": "Moto",
+        "methodBicicleta": "Bicicleta",
+        "methodVan": "Van/Carro"
+    },
+    "requiredMsg": {
+        "msgName": "É necessário informar o nome",
+        "msgCpf": "É necessário informar o CPF",
+        "msgEmail": "É necessário informar o email",
+        "msgCep": "É necessário informar o CEP",
+        "msgNumber": "É necessário informar o número do endereço",
+        "msgDeliveryMethod": "Selecione o método de entrega",
+        "msgCnh": "Adicione uma foto da sua CNH"
+    }
+}
